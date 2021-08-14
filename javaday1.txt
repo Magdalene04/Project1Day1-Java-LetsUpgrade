@@ -1,0 +1,9 @@
+Difference between Compiler and Interpreter:
+   1) A compiler takes the entire program in one go.
+       An Interpreter takes a single line of code at a time.
+   2) The compiler generates an intermediate machine code.
+       The interpreter never produces any intermediate machine code.
+   3) The compiler is best suited for the production environment.
+       An interpreter is best suited for a software development environment.
+   4) The compiler is used by programming languages such as C,C++,C# etc.
+       An Interpreter is used by programming languages such as Python, PHP, Perl etc. 
